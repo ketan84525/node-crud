@@ -1,7 +1,7 @@
 
 # Nodejs CRUD Application:
 
-A NodeJS CRUD Application to insert, update, delete and view features using NodeJS, ExpressJS, MySQL.
+A NodeJS CRUD Application to insert, update, delete and view features using NodeJS, ExpressJS, MySQL, REST API.
 
 
 ## Authors
