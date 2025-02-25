@@ -30,6 +30,7 @@ To deploy this project:
 - Import SQL File in PHPMyAdmin
 - Home Page URL of Project:
 http://localhost:5000/login
+- Create A export folder: csv, xlsx, pdf
 
 Users Creds
 
