@@ -30,9 +30,12 @@ To deploy this project:
 - Import SQL File in PHPMyAdmin
 - Home Page URL of Project:
 http://localhost:5000/login
-- Create A export folder: csv, xlsx, pdf
+- Create A exports folder: csv, xlsx, pdf
 
 Users Creds
 
 - Admin
     - ketan@dustvalue.com 123456
+
+For API ref
+- refer API Docs.xlsx file
